@@ -1,2 +1,2 @@
 # Weather-app
-This is a Weather-app
+This is a basic level Weather-app.
