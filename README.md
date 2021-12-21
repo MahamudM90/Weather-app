@@ -1,2 +1,2 @@
 # Weather-app
-This is a basic level Web-Site Weather-app.
+This is a basic level Web-Site o Weather-app.
